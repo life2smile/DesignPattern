@@ -3,9 +3,9 @@ package bride;
 import bride.color.GreenColor;
 import bride.color.IColor;
 import bride.color.RedColor;
-import bride.shap.CircleShape;
-import bride.shap.Shape;
-import bride.shap.RectangleShape;
+import bride.shape.CircleShape;
+import bride.shape.Shape;
+import bride.shape.RectangleShape;
 
 /**
  * Created by wenzhi on 2018/10/24.
