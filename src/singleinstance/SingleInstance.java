@@ -1,4 +1,4 @@
-package instance;
+package singleinstance;
 
 import java.io.Serializable;
 
