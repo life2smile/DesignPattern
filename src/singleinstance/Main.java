@@ -21,7 +21,7 @@ public class Main {
     private static void testReflectInstance() {
         try {
 
-            Class<SingleInstance> clazz = (Class<SingleInstance>) Class.forName("instance.SingleInstance");
+            Class<SingleInstance> clazz = (Class<SingleInstance>) Class.forName("singleinstance.SingleInstance");
 
             Constructor<SingleInstance> constructor = clazz.getDeclaredConstructor(null);
             constructor.setAccessible(true);
