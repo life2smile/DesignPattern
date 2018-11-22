@@ -6,9 +6,10 @@ package builder;
 public class Main {
     public static void main(String[] args) {
         Ultraman.Builder builder = new Ultraman.Builder();
-        builder.setCloak("red cloak");
-        builder.setShoes("black shoes");
-        builder.setTrousers("gray trousers");
+
+        builder.setCloak("red cloak")
+                .setShoes("black shoes")
+                .setTrousers("gray trousers");
 
         builder.build().displayUltramanDress();
     }
