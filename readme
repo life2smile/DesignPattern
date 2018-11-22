@@ -1,0 +1,29 @@
+本工程简单实现了23中设计模式，命名尽量做到了清晰明了。
+
+下面对各个package进行说明
+
+bride：桥接模式
+
+command： 命令模式
+
+decorator： 装饰模式
+
+facade： 门面模式
+
+factory.simple: 简单工厂模式
+
+factory.method: 工厂方法模式
+
+factory.abstraction: 抽象工厂模式
+
+iterator: 迭代器模式
+
+memento: 备忘录模式
+
+proxy.dynamicproxy: 动态代理模式
+
+proxy.staticproxy: 静态代理模式
+
+responsibility.chain: 责任链模式
+
+singleinstance: 单例模式
