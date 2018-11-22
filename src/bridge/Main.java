@@ -1,11 +1,11 @@
-package bride;
+package bridge;
 
-import bride.color.GreenColor;
-import bride.color.IColor;
-import bride.color.RedColor;
-import bride.shape.CircleShape;
-import bride.shape.Shape;
-import bride.shape.RectangleShape;
+import bridge.color.GreenColor;
+import bridge.color.IColor;
+import bridge.color.RedColor;
+import bridge.shape.CircleShape;
+import bridge.shape.Shape;
+import bridge.shape.RectangleShape;
 
 /**
  * Created by wenzhi on 2018/10/24.

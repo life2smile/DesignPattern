@@ -1,4 +1,4 @@
-package bride.color;
+package bridge.color;
 
 /**
  * Created by wenzhi on 2018/10/24.

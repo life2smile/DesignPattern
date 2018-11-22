@@ -1,6 +1,6 @@
-package bride.shape;
+package bridge.shape;
 
-import bride.color.IColor;
+import bridge.color.IColor;
 
 /**
  * Created by wenzhi on 2018/10/24.

@@ -2,7 +2,9 @@
 
 下面对各个package进行说明
 
-bride：桥接模式
+bridge：桥接模式
+
+builder: 构建者模式
 
 command： 命令模式
 
