@@ -22,6 +22,8 @@ iterator: 迭代器模式
 
 memento: 备忘录模式
 
+prototype: 原型模式
+
 proxy.dynamicproxy: 动态代理模式
 
 proxy.staticproxy: 静态代理模式
